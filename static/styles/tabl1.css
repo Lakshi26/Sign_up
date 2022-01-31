@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+.table-heading{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.table{
+    font-size: 30px;
+    
+    
+    margin-top: 270px;
+    width: 800px;
+    margin: auto;
+    
+}
